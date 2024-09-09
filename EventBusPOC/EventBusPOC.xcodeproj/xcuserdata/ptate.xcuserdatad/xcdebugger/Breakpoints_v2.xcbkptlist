@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "02596932-DC73-4C23-B3CC-93F316A08724"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2FB7814-729E-4F4F-9FF5-CCC83D91E1B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EventBusPOC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "SecondVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D2FB7814-729E-4F4F-9FF5-CCC83D91E1B1 - 487359687375854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBusPOC.SecondVC.__deallocating_deinit"
+                  moduleName = "EventBusPOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ptate/Documents/Study/EventBusPOC/EventBusPOC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "D2FB7814-729E-4F4F-9FF5-CCC83D91E1B1 - 487359687375854d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EventBusPOC.SecondVC.__deallocating_deinit"
+                  moduleName = "EventBusPOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ptate/Documents/Study/EventBusPOC/EventBusPOC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
